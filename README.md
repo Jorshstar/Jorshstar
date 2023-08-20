@@ -1,6 +1,7 @@
 ### Hi, I'm Akinbode Joshua 👋
 
-<img align='center' width='1020' src='https://unsplash.com/photos/9SoCnyQmkzI'>
+![image](https://github.com/Jorshstar/Jorshstar/assets/111021615/b4dd87b2-f1dc-472b-8e58-b9e7ca41cd16)
+
 
 I am an enthusiastic learner in the field of Full Stack Web Development, I am eager to apply my growing skills and knowledge.
 
