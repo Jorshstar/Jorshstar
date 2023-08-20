@@ -40,3 +40,5 @@ Technologies used:
 - [LinkedIn](https://www.linkedin.com/in/akinbodejoshua)
 
 P/S: I'm also available for full-time Backend and Fullstack (MERN Stack) Development roles.
+
+<p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com/?user=Jorshstar&" alt="Jorshstar" /></p>
