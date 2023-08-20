@@ -35,7 +35,7 @@ Technologies used:
 - Testing (React Testing Library & Jest)
 
 ## 📲 Get in touch
-- [Resume](https://drive.google.com/file/d/1dqgPTxRqj8fxq1zieArBvavo0RafQCNu/view?usp=drivesdk)
+- [Resume]()
 - [Twitter](https://twitter.com/jorshstar)
 - [LinkedIn](https://www.linkedin.com/in/akinbodejoshua)
 
