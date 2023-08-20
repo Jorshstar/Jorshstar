@@ -1,6 +1,8 @@
 ### Hi, I'm Akinbode Joshua 👋
 
-As an enthusiastic learner in the field of Full Stack Web Development, I am eager to apply my growing skills and knowledge.
+<img align='center' width='1020' src='https://unsplash.com/photos/pjAH2Ax4uWk'>
+
+I am an enthusiastic learner in the field of Full Stack Web Development, I am eager to apply my growing skills and knowledge.
 
 I am a dedicated individual with a strong passion for web development and a genuine curiosity for the latest industry trends. Currently in the process of expanding my skill set, I am actively seeking opportunities to gain practical experience and contribute to exciting projects.
 
