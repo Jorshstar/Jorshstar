@@ -35,6 +35,7 @@ Technologies used:
 - [Resume]()
 - [Twitter](https://twitter.com/jorshstar)
 - [LinkedIn](https://www.linkedin.com/in/akinbodejoshua)
+ - [Portfolio](https://portfolied.netlify.app/)
 
 P/S: I'm also available for full-time Backend and Fullstack (MERN Stack) Development roles.
 
