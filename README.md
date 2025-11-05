@@ -2,41 +2,79 @@
 
 ![image](https://github.com/Jorshstar/Jorshstar/assets/111021615/17596feb-e88d-4b3e-afab-5bc9ac4a2b89)
 
+I’m a passionate **Full-Stack Software Developer** dedicated to building scalable, user-focused web applications and backend systems that make a real impact.  
+My expertise spans across **React, Next.js, TypeScript, Node.js, and Python**, enabling me to handle both front-end and back-end development efficiently.
 
+I’m constantly improving my craft, staying current with modern technologies, and creating solutions that blend performance, functionality, and beautiful design.
 
+- 🔭 I’m currently working on a **social commerce app**, applying my full-stack experience to deliver seamless user engagement.  
+- 💡 Experienced in **React**, **Next.js**, **Node.js**, **Python**, and **Prisma**.  
+- 👯 I thrive in collaborative environments where creativity, innovation, and clean code drive success.  
+- 💬 Always open to discussions on **software architecture**, **APIs**, and **performance optimization**.  
+- 📫 How to reach me: **ajosh22.aj@gmail.com** — I’m open to exciting opportunities and collaborations.  
+- ⚡ Fun fact: **I love sports 🤭**  
+- 😄 Pronouns: **He/Him**
 
-
-I am an enthusiastic **Full Stack Web Developer** with a strong commitment to expanding my skills and contributing to exciting projects. My foundation in programming languages like HTML, CSS, JavaScript, React JS, React Native, and Node.js equips me for both front-end and back-end development.
-
-I am a dedicated individual with a strong passion for web development and a genuine curiosity for the latest industry trends. Currently in the process of expanding my skill set, I am actively seeking opportunities to gain practical experience and contribute to exciting projects.
-
-- 🔭 I am currently working on a social commerce app for a company, where I’m applying my skills to create a meaningful impact. 
-- 🌱 I’m currently learning backend software engineering in Alx. where we #do hard things☺️
-- 👯 My passion for innovation drives me to collaborate on innovative projects and contribute positively to teams.
-- 💬 I’m particularly excited about **backend development** and am open to discussing any aspect of it.
-- 📫 How to reach me: **ajosh22.aj@gmail.com** I’m thrilled to connect with experienced professionals and be a part of teams that value continuous learning and forward-thinking approaches.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  **I love sports🤭**
+---
 
 ## 📌 Skills
-- Languages: JavaScript/ReactJs, NodeJs
-- Tools: Git & Github, VS Code
 
-Technologies used: 
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- Reactjs
-- Redux (State Management)
-- ExpressJs
-- MongoDB
-- API integration (REST APIs)
-- Testing (React Testing Library & Jest)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📲 Get in touch
-- [Resume]()
-- [Twitter](https://twitter.com/jorshstar)
-- [LinkedIn](https://www.linkedin.com/in/akinbodejoshua)
- - [Portfolio](https://portfolied.netlify.app/)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-P/S: I'm also available for full-time Backend and Fullstack (MERN Stack) Development roles.
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
+**Tools & Testing:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+---
+
+## 📲 Get in Touch
+
+- [📄 Resume](#)  
+- [🐦 Twitter](https://twitter.com/jorshstar)  
+- [💼 LinkedIn](https://www.linkedin.com/in/akinbodejoshua)  
+- [🌐 Portfolio](https://portfolied.netlify.app/)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jorshstar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorshstar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorshstar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jorshstar&label=Profile+Views&color=blue&style=flat-square" alt="Profile views"/>
+</p>
+
+---
+
+P/S: I’m also available for **Full-time Backend** and **Full-Stack Development** roles across modern technologies (React, Next.js, Node.js, Python).
