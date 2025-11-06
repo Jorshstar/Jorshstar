@@ -7,11 +7,11 @@ My expertise spans across **React, Next.js, TypeScript, Node.js, and Python**, e
 
 I’m constantly improving my craft, staying current with modern technologies, and creating solutions that blend performance, functionality, and beautiful design.
 
-- 🔭 I’m currently working on a **social commerce app**, applying my full-stack experience to deliver seamless user engagement.  
-- 💡 Experienced in **React**, **Next.js**, **Node.js**, **Python**, and **Prisma**.  
+- 🔭 I’m currently working on a **Quiz Portal**, applying my full-stack experience to deliver seamless user engagement.  
+- 💡 Experienced in **React**, **Next.js**, **Node.js**, **Python**, and **Prisma** e.t.c  
 - 👯 I thrive in collaborative environments where creativity, innovation, and clean code drive success.  
 - 💬 Always open to discussions on **software architecture**, **APIs**, and **performance optimization**.  
-- 📫 How to reach me: **ajosh22.aj@gmail.com** — I’m open to exciting opportunities and collaborations.  
+- 📫 How to reach me: **joshuaakinbode61@gmail.com** — I’m open to exciting opportunities and collaborations.  
 - ⚡ Fun fact: **I love sports 🤭**  
 - 😄 Pronouns: **He/Him**
 
@@ -29,6 +29,7 @@ I’m constantly improving my craft, staying current with modern technologies, a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,4 +78,4 @@ I’m constantly improving my craft, staying current with modern technologies, a
 
 ---
 
-P/S: I’m also available for **Full-time Backend** and **Full-Stack Development** roles across modern technologies (React, Next.js, Node.js, Python).
+P/S: I’m also available for **Full-Stack Development** roles across modern technologies (React, Typescript, Next.js, Node.js, Python).
