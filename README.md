@@ -51,10 +51,10 @@ I’m constantly improving my craft, staying current with modern technologies, a
 
 ## 📲 Get in Touch
 
-- [📄 Resume](#)  
+- [📄 Resume](#)
 - [🐦 Twitter](https://twitter.com/jorshstar)  
 - [💼 LinkedIn](https://www.linkedin.com/in/akinbodejoshua)  
-- [🌐 Portfolio](https://portfolied.netlify.app/)  
+- [🌐 Portfolio](https://joshuaakinbode.netlify.app/)  
 
 ---
 
