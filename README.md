@@ -2,13 +2,13 @@
 
 ![image](https://github.com/Jorshstar/Jorshstar/assets/111021615/17596feb-e88d-4b3e-afab-5bc9ac4a2b89)
 
-I’m a passionate **Full-Stack Software Developer** dedicated to building scalable, user-focused web applications and backend systems that make a real impact.  
-My expertise spans across **React, Next.js, TypeScript, Node.js, and Python**, enabling me to handle both front-end and back-end development efficiently.
+I’m a passionate **Full-Stack Software Engineer** dedicated to building scalable, user-focused web applications and backend systems that make a real impact.  
+My expertise spans across **React, Next.js, TypeScript, Node.js, Go, Java, AI, AI Automation, .net and Python**, enabling me to handle both front-end and back-end development efficiently.
 
 I’m constantly improving my craft, staying current with modern technologies, and creating solutions that blend performance, functionality, and beautiful design.
 
 - 🔭 I’m currently working on a **Quiz Portal**, applying my full-stack experience to deliver seamless user engagement.  
-- 💡 Experienced in **React**, **Next.js**, **Node.js**, **Python**, and **Prisma** e.t.c  
+- 💡 Experienced in **React**, **Next.js**, **Node.js**, **Python**, **Go**, **Java**, **AI**, **AI Automation**, **.net** and **Prisma** e.t.c  
 - 👯 I thrive in collaborative environments where creativity, innovation, and clean code drive success.  
 - 💬 Always open to discussions on **software architecture**, **APIs**, and **performance optimization**.  
 - 📫 How to reach me: **joshuaakinbode61@gmail.com** — I’m open to exciting opportunities and collaborations.  
@@ -78,4 +78,4 @@ I’m constantly improving my craft, staying current with modern technologies, a
 
 ---
 
-P/S: I’m also available for **Full-Stack Development** roles across modern technologies (React, Typescript, Next.js, Node.js, Python).
+P/S: I’m also available for **Full-Stack Software Engineering** roles across modern technologies (React, Typescript, Next.js, Node.js, Python).
